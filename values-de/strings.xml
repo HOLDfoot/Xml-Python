@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="log_in_with_facebook">Weiter mit Facebook</string>
+  <string name="getfriends_signup_title_1">Schon mal geträumt, ein Snapchat Pop zu sein?</string>
+  <string name="getfriends_signup_sub_title_1">Sammle Tonnen von Ansichten und Followern!</string>
+  <string name="getfriends_signup_title_2">Bereit zum Treffen Chill Friends?</string>
+  <string name="getfriends_signup_sub_title_2">Melden Sie sich jetzt an, um weitere Funktionen zu entdecken!</string>
+  <string name="kkfriends_signup_title_1">Treffen Sie heiße Singles auf Social Media</string>
+  <string name="kkfriends_signup_sub_title_1">Beginne Streifen mit neuen Freunden</string>
+  <string name="kkfriends_signup_title_2">Steigern Sie Ihre Social Media</string>
+  <string name="kkfriends_signup_sub_title_2">Erhalten Sie zahlreiche Freunde, Ansichten, Antworten</string>
+</resources>

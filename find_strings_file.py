@@ -4,7 +4,7 @@ import sys
 import commands
 
 def get_finded_file():
-    reg_find = "find . -name strings.xml"
+    reg_find = "find res/ -name strings.xml"
     tuple_find = commands.getstatusoutput(reg_find)
     #print tuple_find[1]
     string_files = tuple_find[1].split("\n")

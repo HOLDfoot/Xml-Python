@@ -23,10 +23,20 @@ def delete_element(file_name, prefix_tuple, remove = False):
         else: # 保留这些标签
             if not is_contain:
                 res.remove(ss)
-
+        ss.tail = "\n"
     tree.write(file_name, encoding='utf-8')
+    append_header(file_name)
 
-if __name__ == "main":
+def append_header(file_name):
+    file_header = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    file_read = open(file_name, "r")
+    file_body = file_read.read()
+    file_read.close()
+    file_write = open(file_name, "w")
+    file_write.write(file_header + file_body)
+    file_write.close()
+
+if __name__ == "__main__":
     print "main"
     prefix_tuple = ("flamingo", "friendsfinder", "getfriends", "kkfriends")
     file_name = "values-de/strings.xml"
