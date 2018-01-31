@@ -12,4 +12,4 @@ kkfriendstuple = ("kkfriends",)
 finded_files = find_file.get_finded_file()
 for file in finded_files:
     print file
-    delete_element.delete_element(file, flamingo_tuple, False)
+    delete_element.delete_element(file, getfriends_tuple, False)
