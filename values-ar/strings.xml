@@ -1,14 +1,2 @@
 <resources>
-  <string name="flamingo_signup_title_1">من أي وقت مضى يحلم أن يكون سناب شات المشاهير؟</string>
-  <string name="flamingo_signup_sub_title_1">جمع طن من وجهات النظر والمتابعين!</string>
-  <string name="flamingo_signup_title_2">على استعداد للاجتماع تشيل الأصدقاء؟</string>
-  <string name="flamingo_signup_sub_title_2">تسجيل الدخول الآن لمعرفة المزيد من الميزات!</string>
-  <string name="friendsfinder_signup_title_1">هل تريد المزيد من الأصدقاء على مواقع التواصل الاجتماعي؟</string>
-  <string name="friendsfinder_signup_sub_title_1">الحصول على العديد من المشاهدات و الردود على وسائل الاعلام الاجتماعية!</string>
-  <string name="friendsfinder_signup_title_2">خطوة على مشوار الشهرة!</string>
-  <string name="friendsfinder_signup_sub_title_2">بدء الشرائط مع أصدقاء جدد</string>
-  <string name="kkfriends_signup_title_1">لقاء الفردي الساخن على وسائل الاعلام الاجتماعية</string>
-  <string name="kkfriends_signup_sub_title_1">بدء الشرائط مع أصدقاء جدد</string>
-  <string name="kkfriends_signup_title_2">تعزيز وسائل الاعلام الاجتماعية الخاصة بك</string>
-  <string name="kkfriends_signup_sub_title_2">الحصول على العديد من الأصدقاء، وجهات النظر، الردود</string>
-</resources>
+  </resources>
