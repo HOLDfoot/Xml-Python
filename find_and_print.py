@@ -15,3 +15,5 @@ finded_files = find_file.get_finded_file()
 for file in finded_files:
     #print file
     print_element.print_element(file, name_contain)
+print print_element.max_list
+print print_element.all_max
