@@ -23,8 +23,8 @@ def print_element(file_name, name_contain, mini_bounds=35, print_detail=1):
                     print file_name[5:len(file_name)]
                     had_print = True
                 if print_detail != 0:
-                    print element_name
-                    print element_text_len
+                    print element_name + "长度:" + str(element_text_len)
+                    #print element_text_len
     #             max_text_len = max_text_len if max_text_len > element_text_len else element_text_len
     # if max_text_len != 0:
     #     # print "max _signup_title_ = " + str(max_text_len)

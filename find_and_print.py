@@ -15,8 +15,8 @@ if len(sys.argv) >= 2:
 else:
     print_detail = 1
 
-name_contain = "feedback"
-mini_bounds = 18
+name_contain = "_signup_title_"
+mini_bounds = 46
 
 print name_contain + "在以下文件中长度应该小于" + str(mini_bounds)
 finded_files = find_file.get_finded_file()
