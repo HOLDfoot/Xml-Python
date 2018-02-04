@@ -44,7 +44,7 @@ def append_header(file_name):
 
 
 if __name__ == "__main__":
-    print "main"
+    print "__main__ delete_xml.py"
     prefix_tuple = ("flamingo", "friendsfinder", "getfriends", "kkfriends")
     file_name = "values-de/strings.xml"
     delete_element(file_name, prefix_tuple, True)
